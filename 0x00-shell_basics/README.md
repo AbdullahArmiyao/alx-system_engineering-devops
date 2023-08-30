@@ -11,6 +11,10 @@
 10-back takes you back to the previous directory
 11-lists lists the contents of the files in the specified directory
 12-file_type prints the type of file
-13-symbolic_link creates a symbolink link
+13-symbolic_link creates a symbolink link using ln -s
 14-copy_html copies all html files into the specified path
-100-lets_move moves all files starting with a capital letter to the specfied path
+100-lets_move moves all files starting with a capital letter to the specfied path using the [[:upper:]] command
+101-clean_emacs removes ~ files from directory
+102-tree creates 3 directories at a go using the -p command
+103-commas seperates listed files with comas using -map command
+school.mgc  used with the command file to detect School data files.
