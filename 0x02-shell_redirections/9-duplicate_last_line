@@ -1,0 +1,3 @@
+#!/bin/bash
+cst iacta | tail --lines=1 >> iacta
+
