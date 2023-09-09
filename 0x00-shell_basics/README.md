@@ -17,4 +17,6 @@
 101-clean_emacs removes ~ files from directory
 102-tree creates 3 directories at a go using the -p command
 103-commas seperates listed files with comas using -map command
+
+For this we did not uses any shebang but we compiled the code with file -C -m
 school.mgc  used with the command file to detect School data files.
